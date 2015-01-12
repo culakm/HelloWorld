@@ -26,7 +26,7 @@ public class DisplayMessageActivity extends ActionBarActivity {
         setContentView(textView);
     }
 
-    //moj test updateasdgagsaasd
+    //moj test updateasdgagsaasdasasasfasg zmena 2
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
