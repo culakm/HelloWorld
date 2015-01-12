@@ -27,6 +27,8 @@ public class DisplayMessageActivity extends ActionBarActivity {
         setContentView(textView);
     }
 
+    //moj test updateasdgagsa
+
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         // Handle action bar item clicks here. The action bar will
